@@ -2,7 +2,7 @@
 
 I'm Nicky, a full-stack software engineer.
 
-- 🤖 I’m working at [thoughtful](https://www.thoughtful.ai/) to build the world's digital workforce
+- 🤖 I’m working at [Rad AI](https://www.radai.com/) to help radiologists save time, reduce burnout, and improve patient care
 - 🌱 I’m learning **AWS**, **React**, and **TypeScript** these days
 - ✏️ I post articles on my [blog](https://nickymarino.com) about software dev and more!
 - 🔭 My current side project is [shorty](https://github.com/nickymarino.com/shorty), a URL shortener
